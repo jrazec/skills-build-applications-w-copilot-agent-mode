@@ -1,0 +1,6 @@
+# Requirements for OctoFit Tracker backend
+# Based on monafit Tracker reference
+
+django
+djangorestframework
+pymongo
